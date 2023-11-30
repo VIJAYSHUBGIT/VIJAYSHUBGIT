@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIJAY SINGH</h1>
 <h3 align="center">A passionate Data aspirant from india</h3>
 <image align="right" alt="coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/data-analyst-8628816-6854087.png?f=webp">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayshubgit&label=Profile%20views&color=0e75b6&style=flat" alt="vijayshubgit" /> </p>
 
 - 🔭 I’m done bi project [POWER BI 360](https://app.powerbi.com/view?r=eyJrIjoiZmZjODBiOGQtMjdiMi00ODlkLThkMjEtZmQ4OWY4YTJlMDQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)

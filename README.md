@@ -14,7 +14,3 @@
 <a href="https://discord.gg/vijju0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vijju0203" height="30" width="40" /></a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayshubgit&show_icons=true&locale=en&layout=compact" alt="vijayshubgit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayshubgit&show_icons=true&locale=en" alt="vijayshubgit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayshubgit&" alt="vijayshubgit" /></p> 
